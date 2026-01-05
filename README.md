@@ -35,6 +35,10 @@ I am keen to explore and learn Data Science, Ai, and Machine Learning alongside 
 </a>
 
 
+<a href="https://mail.google.com/mail/?view=cm&to=patilaryan874@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" />
+</a>
+
 
 
 
