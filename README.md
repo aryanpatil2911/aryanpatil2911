@@ -18,26 +18,21 @@ I am keen to explore and learn Data Science, Ai, and Machine Learning alongside 
 <img src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VS Code" width="40"/>
 
 
-
-
 ## Let's Connect 🤝
 
-<a href="mailto:patilaryan874@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=patilaryan874@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" />
 </a> &nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/aryanpatil2911/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a> &nbsp;&nbsp;
-
 <a href="https://github.com/aryanpatil2911">
   <img src="https://skillicons.dev/icons?i=github" width="40" />
 </a>
 
 
-<a href="https://mail.google.com/mail/?view=cm&to=patilaryan874@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" />
-</a>
+
+
 
 
 
