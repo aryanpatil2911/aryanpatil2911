@@ -4,7 +4,7 @@
 
 I work with AWS as my cloud platform and have a keen interest in cloud technologies. I am an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ea33c343-2207-42bf-a150-abeb698368c7/public_url).
 My projects cover multiple domains, including AWS [basics](https://github.com/aryanpatil2911/aws-basics.git), [networking](https://github.com/aryanpatil2911/aws-networking.git), [databases](https://github.com/aryanpatil2911/aws-databases.git), [security](https://github.com/aryanpatil2911/aws-security.git), [containers & compute](https://github.com/aryanpatil2911/aws-containers-compute.git), [3-tier web applications(serverless Lambda + API Gateway)](https://github.com/aryanpatil2911/aws-3tier-webapp.git) and [integrating Ai with AWS cloud technologies](https://github.com/aryanpatil2911/aws-ai.git).  
-I am keen to explore and learn Data Science, Ai, and Machine Learning alongside my cloud engineering work and plan to leverage Ai and cloud technologies.
+I am keen to explore Data Science, Ai, and Machine Learning alongside my cloud engineering work and plan to leverage Ai and cloud technologies.
 
 
 ## Skill Set
