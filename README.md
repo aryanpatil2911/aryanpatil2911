@@ -2,8 +2,8 @@
 
 ### **A passionate Cloud Engineer**  
 
-I work with AWS as my cloud platform and have a keen interest in cloud technologies.I am an [AWS Certified Cloud Practitioner (Foundational)](https://drive.google.com/file/d/1gmX6gDkuwwd9JfQidEh7EYxGF33CGfg0/view?usp=sharing).
- My projects cover multiple domains, including AWS [basics](https://github.com/aryanpatil2911/aws-basics.git), [networking](https://github.com/aryanpatil2911/aws-networking.git), [databases](https://github.com/aryanpatil2911/aws-databases.git), [security](https://github.com/aryanpatil2911/aws-security.git), [containers & compute](https://github.com/aryanpatil2911/aws-containers-compute.git), [3-tier web applications(serverless Lambda + API Gateway)](https://github.com/aryanpatil2911/aws-3tier-webapp.git) and [integrating Ai with AWS cloud technologies](https://github.com/aryanpatil2911/aws-ai.git).  
+I work with AWS as my cloud platform and have a keen interest in cloud technologies. I am an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/ea33c343-2207-42bf-a150-abeb698368c7/public_url).
+My projects cover multiple domains, including AWS [basics](https://github.com/aryanpatil2911/aws-basics.git), [networking](https://github.com/aryanpatil2911/aws-networking.git), [databases](https://github.com/aryanpatil2911/aws-databases.git), [security](https://github.com/aryanpatil2911/aws-security.git), [containers & compute](https://github.com/aryanpatil2911/aws-containers-compute.git), [3-tier web applications(serverless Lambda + API Gateway)](https://github.com/aryanpatil2911/aws-3tier-webapp.git) and [integrating Ai with AWS cloud technologies](https://github.com/aryanpatil2911/aws-ai.git).  
 I am keen to explore and learn Data Science, Ai, and Machine Learning alongside my cloud engineering work and plan to leverage Ai and cloud technologies.
 
 
@@ -27,9 +27,7 @@ I am keen to explore and learn Data Science, Ai, and Machine Learning alongside 
 <a href="https://www.linkedin.com/in/aryanpatil2911/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a> &nbsp;&nbsp;
-<a href="https://github.com/aryanpatil2911">
-  <img src="https://skillicons.dev/icons?i=github" width="40" />
-</a>
+
 
 
 
